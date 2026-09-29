@@ -63,19 +63,6 @@ Cấu hình mặc định (xem `database/connection.ts`):
 - password: 1234
 - port: 5000
 
-Tạo database và chạy các script schema/seed nếu cần (xem folder `ai_automation/database/` nếu có).
-
-## Hành vi đáng chú ý
-
-- Backend dùng `tsx watch` cho phát triển (`npm run dev`).
-- Frontend dùng Vite (`npm run dev`).
-- Component `NodeSidebar.jsx` có cơ chế autosave (debounce) gửi `PUT /nodes/:id` khi người dùng thay đổi trường.
-
-## Gợi ý cải thiện
-
-- Di chuyển thông tin kết nối DB sang biến môi trường.
-- Thêm file `README.md` gốc cho repository (nếu cần).
-- Thêm file `.env.example` để liệt kê các biến môi trường cần thiết cho developer mới.
 
 ## Nơi tìm mã nguồn
 
