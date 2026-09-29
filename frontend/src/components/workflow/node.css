@@ -1,0 +1,19 @@
+.node-palette {
+    width: 220px;
+    background: #111827;
+    color: white;
+    padding: 20px;
+    border-right: 1px solid #374151;
+}
+
+.node-item {
+    padding: 10px;
+    margin-bottom: 10px;
+    background: #1f2937;
+    border-radius: 8px;
+    cursor: grab;
+}
+
+.node-item:hover {
+    background: #374151;
+}

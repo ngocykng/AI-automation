@@ -1,0 +1,86 @@
+/* const styles = {
+  page: {
+    background: "#0b0b0f",
+    color: "white",
+    minHeight: "100vh",
+    fontFamily: "Arial",
+  },
+
+  header: {
+    display: "flex",
+    justifyContent: "space-between",
+    padding: "20px 40px",
+    borderBottom: "1px solid #222",
+  },
+
+  logo: {
+    fontWeight: "bold",
+  },
+
+  nav: {
+    display: "flex",
+    gap: "10px",
+  },
+
+  btn: {
+    padding: "8px 14px",
+    background: "#222",
+    color: "white",
+    border: "none",
+    borderRadius: "6px",
+    cursor: "pointer",
+  },
+
+  hero: {
+    textAlign: "center",
+    padding: "80px 20px",
+  },
+
+  title: {
+    fontSize: "42px",
+    marginBottom: "10px",
+  },
+
+  subtitle: {
+    color: "#aaa",
+    marginBottom: "30px",
+  },
+
+  actions: {
+    display: "flex",
+    justifyContent: "center",
+    gap: "10px",
+  },
+
+  primaryBtn: {
+    padding: "12px 18px",
+    background: "#4f46e5",
+    color: "white",
+    border: "none",
+    borderRadius: "8px",
+    cursor: "pointer",
+  },
+
+  secondaryBtn: {
+    padding: "12px 18px",
+    background: "#222",
+    color: "white",
+    border: "1px solid #333",
+    borderRadius: "8px",
+    cursor: "pointer",
+  },
+
+  features: {
+    display: "flex",
+    justifyContent: "center",
+    gap: "20px",
+    marginTop: "60px",
+  },
+
+  card: {
+    padding: "20px",
+    background: "#111",
+    borderRadius: "10px",
+    border: "1px solid #222",
+  },
+}; */
